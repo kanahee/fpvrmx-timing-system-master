@@ -5,7 +5,7 @@
 #### Timing System for FPV Racing Mexico (https://fpracingmx.com).
 
 <p align="center">
-  <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-12.14.1-important?style=flat-square" /></a>
+  <a href="https://nodejs.org/en/blog/release/v15.14.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-15.14.0-important?style=flat-square" /></a>
   <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
   <br/>
   <a href="https://app.netlify.com/sites/ashutosh1919portfolio/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
