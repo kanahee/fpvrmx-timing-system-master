@@ -22,7 +22,7 @@ function App() {
 
     <div class="marvellous-container">
     <Navbar bg="light" expand="lg">
-      <Navbar.Brand href="#home">Timing System</Navbar.Brand>
+      <Navbar.Brand href="#home">Timing System v0.1</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
