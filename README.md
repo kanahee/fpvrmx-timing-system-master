@@ -3,7 +3,7 @@
 
 ![alt text](https://www.fpvracingmx.com/wp-content/uploads/2020/12/fpvracinglogo-1080p-1-e1607093671897.png)
 
-#### Timing System for FPV Racing Mexico (https://fpvracingmx.com){:target="_blank" rel="noopener"}.
+#### Timing System for FPV Racing Mexico (https://fpvracingmx.com).
 
 <p align="center">
   <a href="https://nodejs.org/en/blog/release/v15.14.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-15.14.0-important?style=flat-square" /></a>
