@@ -1,5 +1,6 @@
+<p align="center">
 # FPVRMX Timing System 
-
+</p>
 ![alt text](https://www.fpvracingmx.com/wp-content/uploads/2020/12/fpvracinglogo-1080p-1-e1607093671897.png)
 
 #### Timing System for FPV Racing Mexico (https://fpracingmx.com).
